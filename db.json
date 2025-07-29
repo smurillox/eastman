@@ -1,5 +1,5 @@
 {"1285758": {
-	"Primary_OH": "",
+	"Primary_OH": "0",
 	"CORRECTED_ACID_NUMBER": "6.11",
 	"Cond:  What do you want to know?": "",
 	"SampleNK": "1285758",
@@ -14,14 +14,14 @@
 	"Cond: How will structures be provided?": "",
 	"Solids %": "",
 	"Cond: Expected AcAc Value": "",
-	"AcAc_Number": "",
+	"AcAc_Number": "0",
 	"Cond: Predicted hydroxyl number": "",
 	"LoginBy": "U773341",
 	"Comment": "",
 	"TestCount": "1",
 	"Cond: Is predicted hydroxyl # < 20": "",
 	"Cond: Acid Number": "",
-	"Total_OH": "",
+	"Total_OH": "0",
 	"LoginDate": "2024-10-25 12:13:44",
 	"Analysis": "CLS_ISO_OH",
 	"Cond: What solvent is sample soluble in?": "",
@@ -31,6 +31,6 @@
 	"Cond:  Note - 5 grams weighed if < 20": "",
 	"Cond: Hydroxyl type": "Primary",
 	"TestNumberNK": "2670432",
-	"Secondary_OH": ""
+	"Secondary_OH": "0"
 }
 }
